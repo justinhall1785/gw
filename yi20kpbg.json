@@ -1,5 +1,9 @@
 {
-  "url": [
-    "https://bit.ly/Kzn"
-  ]
+  "target": "https://bit.ly/Kzn",
+  "gateways": [
+    "https://api.jsonbin.io/v3/b/69e5e8d4aaba8821971a3309/latest",
+    "https://gitlab.com/justinhall1785/gw/-/raw/main/yi20kpbg.json",
+    "https://raw.githubusercontent.com/justinhall1785/gw/main/yi20kpbg.json"
+  ],
+  "expires": 1779274695
 }
